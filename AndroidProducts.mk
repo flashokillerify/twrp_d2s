@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_d2s.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_E625F.mk
