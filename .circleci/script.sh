@@ -48,7 +48,7 @@ if [ "$USE_CUSTOM_MANIFEST" = yes ];
 then
 	REPO_INIT="https://github.com/ItsVixano/platform_manifest_twrp_omni"
 else
-	REPO_INIT="https://github.com/minimal-manifest-twrp/platform_manifest_twrp"
+	REPO_INIT="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
 fi
 
 # Telgram env setup
