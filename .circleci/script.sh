@@ -93,7 +93,7 @@ End=$(date +"%s")
 Diff=$(($End - $Start))
 }
 
-export IMG="$MY_DIR"/TWRP/out/target/product/"$CODENAME"/recovery.img
+export IMG="$MY_DIR"/TWRP/out/target/product/f62/recovery.img
 
 # Init TWRP repo
 mkdir TWRP && cd TWRP
