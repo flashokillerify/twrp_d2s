@@ -24,7 +24,7 @@ $(call inherit-product, device/samsung/f62/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := f62
-PRODUCT_NAME := twrp_f62
+PRODUCT_NAME := omni_f62
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := samsung
 PRODUCT_MANUFACTURER := samsung
